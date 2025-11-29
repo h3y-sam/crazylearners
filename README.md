@@ -1,9 +1,3 @@
-Got you bro 😎 I’ll write a clean, attractive, professional-but-cool **README.md** for your GitHub project “CrazyLearners”.
-
-Here it is — you can literally copy-paste into GitHub:
-
----
-
 # 🚀 CrazyLearners — Crush JEE & NEET Like a Pro
 
 CrazyLearners is a next-gen learning platform built for India’s toughest exams — **JEE & NEET**.
@@ -13,13 +7,13 @@ It brings together **high-yield notes, 20 years of PYQs, insightful materials, A
 
 ## 🎯 Why CrazyLearners?
 
-✔ Updated for **New Syllabus (2025)**
-✔ Clean, modern, dark-aesthetic UI
-✔ JEE & NEET separated & smart-structured
-✔ Instant access to notes, MCQs & PYQs
-✔ AI powered doubt-assistant for fast problem solving
-✔ Login & role-based user features
-✔ Optimized for web & on-mobile usage
+✔ Updated for **New Syllabus (2025)**  
+✔ Clean, modern, dark-aesthetic UI   
+✔ JEE & NEET separated & smart-structured  
+✔ Instant access to notes, MCQs & PYQs  
+✔ AI powered doubt-assistant for fast problem solving  
+✔ Login & role-based user features  
+✔ Optimized for web & on-mobile usage  
 
 ---
 
